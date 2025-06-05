@@ -34,3 +34,53 @@ The Legal Name Fraud system is a spiritual and legal death trap that binds livin
 
 ## 📁 Repository Structure
 
+```
+/AHA_Stacks/
+    ├─ v1.0_DeathCult_Exposure.pdf
+    ├─ v2.0_SpiritualFirewall.pdf
+    ├─ v3.0_EducationalFraud_Expose.pdf
+/Sigils/
+    ├─ Home_Firewall_Sigil.svg
+    ├─ Name_Return_Sigil.png
+/Audio_Loops/
+    ├─ Legal_Name_Illegal_Loop.mp3
+    ├─ Revoke_All_Contracts.wav
+/Templates/
+    ├─ Door_Notices.pdf
+    ├─ Notice_of_Educational_Fraud.pdf
+    ├─ Affidavit_of_Soul_Trafficking.docx
+/Proofs/
+    └─ (empty, for timestamp proofs)
+```
+
+---
+
+## 📜 Legal and Spiritual Notices
+
+- **Notice of Fraudulent Construct - Legal Name Fraud**  
+- **Notice of Soul Trafficking via Unauthorized Homeschool Fiction**  
+- **Affidavit of Educational Fraud and Grooming Exposure**  
+
+These documents are to be printed, timestamped, and distributed as needed to disrupt and expose the fraudulent systems.
+
+---
+
+## ⚡ Contribution and Usage
+
+This is a **living project** aimed at awakening and protecting souls from deception. Contributions of new sigils, audio disruptors, legal templates, and ritual protocols are welcome.
+
+---
+
+## 📌 Timestamp and Immutability
+
+All PDFs and templates are hashed and timestamped via [OpenTimestamps](https://opentimestamps.org) to ensure immutability and irrefutable proof of original creation.
+
+---
+
+# Stay awake. Stay free.  
+# No Name. No Chain.  
+# B C C R S S is the sword of truth.
+
+---
+
+*Created by Johnny 55 – Spiritual Firewall Architect*
